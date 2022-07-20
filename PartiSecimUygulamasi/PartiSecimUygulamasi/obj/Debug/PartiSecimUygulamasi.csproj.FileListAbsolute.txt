@@ -1,0 +1,12 @@
+C:\Users\recep\Desktop\c# örnekler\PartiSecimUygulamasi\PartiSecimUygulamasi\bin\Debug\PartiSecimUygulamasi.exe.config
+C:\Users\recep\Desktop\c# örnekler\PartiSecimUygulamasi\PartiSecimUygulamasi\bin\Debug\PartiSecimUygulamasi.exe
+C:\Users\recep\Desktop\c# örnekler\PartiSecimUygulamasi\PartiSecimUygulamasi\bin\Debug\PartiSecimUygulamasi.pdb
+C:\Users\recep\Desktop\c# örnekler\PartiSecimUygulamasi\PartiSecimUygulamasi\obj\Debug\PartiSecimUygulamasi.csproj.AssemblyReference.cache
+C:\Users\recep\Desktop\c# örnekler\PartiSecimUygulamasi\PartiSecimUygulamasi\obj\Debug\PartiSecimUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\recep\Desktop\c# örnekler\PartiSecimUygulamasi\PartiSecimUygulamasi\obj\Debug\PartiSecimUygulamasi.FrmOyGiris.resources
+C:\Users\recep\Desktop\c# örnekler\PartiSecimUygulamasi\PartiSecimUygulamasi\obj\Debug\PartiSecimUygulamasi.FrmGrafikler.resources
+C:\Users\recep\Desktop\c# örnekler\PartiSecimUygulamasi\PartiSecimUygulamasi\obj\Debug\PartiSecimUygulamasi.Properties.Resources.resources
+C:\Users\recep\Desktop\c# örnekler\PartiSecimUygulamasi\PartiSecimUygulamasi\obj\Debug\PartiSecimUygulamasi.csproj.GenerateResource.cache
+C:\Users\recep\Desktop\c# örnekler\PartiSecimUygulamasi\PartiSecimUygulamasi\obj\Debug\PartiSecimUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\recep\Desktop\c# örnekler\PartiSecimUygulamasi\PartiSecimUygulamasi\obj\Debug\PartiSecimUygulamasi.exe
+C:\Users\recep\Desktop\c# örnekler\PartiSecimUygulamasi\PartiSecimUygulamasi\obj\Debug\PartiSecimUygulamasi.pdb
